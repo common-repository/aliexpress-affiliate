@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aliexpress-affiliate\n"
+"POT-Creation-Date: 2014-11-23 22:41+0545\n"
+"PO-Revision-Date: 2014-11-23 22:41+0545\n"
+"Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../aliexpress-affiliate\n"
+
+#: ../../aliexpress-affiliate/inc/hooks.php:18
+msgid "Please complete plugin configuration !"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/hooks.php:21
+msgid "Click Here"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/hooks.php:41
+msgid ""
+"CURL module not available in your hosting. Without it, plugin can not work!"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/init.php:15
+msgid "Settings"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:5
+msgid "Aliexpress Affiliate Settings"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:6
+msgid "Aliexpress"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:16
+msgid "AliExpress API"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:17
+msgid "Enter API Informations"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:21
+msgid "API Key"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:23
+#: ../../aliexpress-affiliate/inc/plugin-option.php:35
+msgid "Example"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:27
+msgid "Tracking ID"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:29
+msgid "Enter Tracking ID"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:33
+msgid "Digital Signature"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:35
+msgid "Enter Digital Signature."
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:44
+msgid "General"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:50
+msgid "Enter Default Category ID"
+msgstr ""
+
+#: ../../aliexpress-affiliate/inc/plugin-option.php:57
+msgid "Enter Caching Hours. Example: Enter 2 for 2 hours of caching"
+msgstr ""
+
+#: ../../aliexpress-affiliate/npf-framework/fields/custom_taxonomy_select.php:33
+msgid "Select"
+msgstr ""
+
+#: ../../aliexpress-affiliate/npf-framework/views/admin.php:30
+msgid "Save Changes"
+msgstr ""
